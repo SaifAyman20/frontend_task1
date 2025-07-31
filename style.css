@@ -558,6 +558,9 @@ nav {
 .head {
     padding-bottom: 60px;
 }
+.search{
+    margin-left: -15px;
+}
 }
 
 /* Responsive for Section 2 (Cards) */
@@ -605,6 +608,7 @@ nav {
 
 .card {
     padding: 8px;
+    width: 90%;
 }
 
 .buy a {
